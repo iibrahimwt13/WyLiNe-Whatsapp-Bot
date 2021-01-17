@@ -57,16 +57,18 @@
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@iibrahimwt13/WylineBot#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imszy17/AsenaWhatsapp)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot)
 
-### The Hard Method
-```js
-git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
-cd WhatsAsenaDuplicated
-npm i
-# Config.env oluşturun ve düzenleyin. #
-# Config.env create and edit. #
-node bot.js
+### Termux String alma
+```
+apt update
+apt install nodejs --fix-missing
+pkg install git
+git clone https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot
+cd WyLiNe-Whatsapp-Bot
+npm install @adiwajshing/baileys
+npm install chalk
+node qr.js
 ```
 
 ### ⚠️ Warning! 
