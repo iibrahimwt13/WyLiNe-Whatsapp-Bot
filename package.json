@@ -1,20 +1,20 @@
 {
-  "name": "WhatsAsenaDuplicated",
+  "name": "Wyline-Whatsapp-Bot",
   "version": "0.10.0",
-  "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./WyLiNe-Whatsapp/bot.js",
+  "description": "Wyline project - Whatsapp Kullanmayı Kolaylaştıran Bir Bottur İyi Kullanmalar.",
+  "main": "./WyLiNe-Whatsapp-Bot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot.git"
+    "url": "git+https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot"
   },
   "keywords": [
     "whatsapp"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "AsenaDev / @phaticusthiccy",
+  "author": "WylineDev / Zeus Usta",
+  "developer": "WylineDev / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot/issues"
