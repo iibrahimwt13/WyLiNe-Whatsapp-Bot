@@ -1,6 +1,4 @@
-
-##WylineBot - İbo Usta
-
+*/WylineBot - İbo Usta/*
 
 const fs = require("fs");
 const path = require("path");
