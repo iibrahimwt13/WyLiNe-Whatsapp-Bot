@@ -43,11 +43,8 @@
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp
     <br>
         Reserved |
-        Reserved |
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/unofficialasena">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
+        Reserved |        
+        <a href="https://t.me/olympuss10">Telegram Group</a> |
     <br>
 </p>
 
@@ -57,7 +54,7 @@
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@iibrahimwt13/WylineBot#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot.git)
 
 ### Termux String alma
 ```
