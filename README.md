@@ -55,7 +55,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square).,
 
 ### Simple Method
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@iibrahimwt13/WylineBot#index.js)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imszy17/AsenaWhatsapp)
 
