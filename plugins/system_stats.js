@@ -17,7 +17,7 @@ const Lang = Language.getString('system_stats');
 
 Asena.addCommand({pattern: 'on', fromMe: true, desc: Lang.ALIVE_DESC}, (async (message, match) => {
     await message.sendMessage(
-        '✅ ```Wang Ja-Rim Sedang aktif...```\n\n🛠️ *Dikelola oleh:* https://t.me/Imszy01\n✏️ *Language:* JavaScript\n\n📌 Ketik *!help* untuk melihat daftar perintah' , MessageType.text
+        '✅ ```Wyline Çalışıyor...```\n\n🛠️ *Language:* JavaScript\n\n📌 yardım için *!help* ' , MessageType.text
     );
 }));
 
