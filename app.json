@@ -4,8 +4,8 @@
     "logo": "https://i.resimyukle.xyz/OCTAHC.jpg",
     "keywords": ["whatsapp", "userbot", "Wyline"],
     "repository": "https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot",
-    "website":   "https://t.me/",
-    "success_url": "https://t.me/olympuss10",
+    "website":   "https://t.me/olympuss1",
+    "success_url": "https://t.me/olympuss1",
     "stack": "container",
     "env": {
         "WYLİNE_SESSION": {
