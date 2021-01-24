@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Imszy17/AsenaWhatsapp /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/iibrahimwt13/Wyline-Whatsapp-Bot /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Europe/Istanbul
 RUN apk add --update nodejs npm
