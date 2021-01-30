@@ -13,4 +13,4 @@ RUN apk --no-cache --virtual build-dependencies add \
 RUN npm install supervisor -g
 RUN npm install
 
-CMD ["node", "bot.js"]
+CMD ["node", "qr.js"]
