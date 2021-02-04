@@ -3,7 +3,7 @@
     "description": "Wyline project - Whatsapp için Harika Bir UserBot.",
     "logo": "https://i.resimyukle.xyz/OCTAHC.jpg",
     "keywords": ["whatsapp", "userbot", "Wyline"],
-    "repository": "https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot",
+    "repository": "https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot.git",
     "website":   "https://t.me/olympuss1",
     "success_url": "https://t.me/olympuss1",
     "stack": "container",
