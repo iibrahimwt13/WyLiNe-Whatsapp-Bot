@@ -1,4 +1,4 @@
-FROM node:latest
+FROM iibrahimwt13:latest
 
 RUN git clone https://github.com/iibrahimwt13/Wyline-Whatsapp-Bot /root/Wyline-Whatsapp-Bot
 WORKDIR /root/Wyline-Whatsapp-Bot/
