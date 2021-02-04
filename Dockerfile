@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM fusuf/whatsasena:9.2.0
 
 RUN git clone https://github.com/iibrahimwt13/Wyline-Whatsapp-Bot /root/Wyline-Whatsapp-Bot
 WORKDIR /root/Wyline-Whatsapp-Bot/
