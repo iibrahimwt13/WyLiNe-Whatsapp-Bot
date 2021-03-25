@@ -1,7 +1,7 @@
 FROM iibrahimwt13/whatswylineee:tagname
 
-RUN git clone https://github.com/iibrahimwt13/Wyline-Whatsapp-Bot /root/Wyline-Whatsapp-Bot
-WORKDIR /root/Wyline-Whatsapp-Bot/
+RUN git clone https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot /root/WyLiNe-Whatsapp-Bot
+WORKDIR /root/WyLiNe-Whatsapp-Bot/
 ENV TZ=Europe/Istanbul
 RUN apk nodejs npm
 RUN apk --no-cache --virtual build-dependencies add \
