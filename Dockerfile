@@ -1,4 +1,4 @@
-FROM iibrahimwt13/whatswylineee:tagname
+FROM iibrahimwt13/whatswylineee:latest 
 
 RUN git clone https://github.com/iibrahimwt13/WyLiNe-Whatsapp-Bot /root/WyLiNe-Whatsapp-Bot
 WORKDIR /root/WyLiNe-Whatsapp-Bot/
